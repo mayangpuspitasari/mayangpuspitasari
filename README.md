@@ -8,17 +8,19 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EE4623?style=for-the-badge&logo=codeigniter&logoColor=white" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-Selamat datang di portofolio GitHub saya! Saya **Mayang Puspita Sari**, seorang Mahasiswa **Sistem Informasi**. Saat ini, saya aktif mengembangkan keterampilan saya dalam **JavaScript**, **PHP**, **React**, **Tailwind CSS**, **Bootstrap**, **Node.js**, dan **Laravel**.
+Selamat datang di portofolio GitHub saya! Saya **Mayang Puspita Sari**, seorang Mahasiswa **Sistem Informasi**. Saat ini, saya aktif mengembangkan keterampilan saya dalam **JavaScript**, **PHP**, **React**, **Tailwind CSS**, **Bootstrap**, **Node.js**, **Laravel**, **Express.js**, dan **CodeIgniter**.
 
 Saya baru saja menyelesaikan **Program Kampus Merdeka - Dicoding Academy** dengan fokus pada **Pengembangan React** dan **Back End**. Selain itu, saya juga memiliki pengalaman mengikuti **KKL di Badan Pusat Statistik**, di mana saya memperoleh wawasan berharga tentang pengolahan dan analisis data.
 
-Saya sangat tertarik pada pengembangan web modern, baik di sisi front-end menggunakan React, Tailwind, serta back-end menggunakan Node.js dan Laravel.
+Saya sangat tertarik pada pengembangan web modern, baik di sisi front-end menggunakan React, Tailwind, serta back-end menggunakan Node.js, Laravel, dan CodeIgniter.
 
 Jika kamu ingin tahu lebih banyak tentang saya atau menjalin koneksi, jangan ragu untuk menghubungi saya melalui platform berikut:
 
@@ -37,12 +39,19 @@ Jika kamu ingin tahu lebih banyak tentang saya atau menjalin koneksi, jangan rag
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs)
+  ![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat&logo=express)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)
+  ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4623?style=flat&logo=codeigniter)
+
+- **Databases:**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 - **Tools:**  
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
+  ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
 ---
 
@@ -50,9 +59,10 @@ Jika kamu ingin tahu lebih banyak tentang saya atau menjalin koneksi, jangan rag
 
 - **React**: Memperdalam penggunaan hooks, state management, dan best practices dalam pengembangan aplikasi React.
 - **PHP**: Mengembangkan aplikasi dengan PHP dan framework back-end.
-- **Tailwind CSS**: Membangun interface modern dengan utility-first CSS framework ini.
-- **Node.js**: Mempelajari pengembangan server dengan Node.js untuk aplikasi back-end yang scalable.
-- **Laravel**: Mempelajari framework Laravel untuk membangun aplikasi web modern dengan PHP.
+- **Express.js**: Membuat API back-end dengan framework Node.js ini.
+- **MySQL**: Meningkatkan kemampuan mengelola dan merancang database relasional.
+- **Postman**: Menguji dan mendokumentasikan API secara efisien.
+- **Canva**: Mendesain materi visual untuk presentasi dan media sosial.
 
 ---
 
